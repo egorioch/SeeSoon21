@@ -6,11 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seesoon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > Был хороший опыт с C#, но дорога Зазеркалья привела к другому...
 
-# Будто бы в детстве
-## there together again
-
-> Снова мысли на весы
-> > На тебе две полосы
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesoon21)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SeeSoon21/SeeSoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
