@@ -7,7 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seesoon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > Был хороший опыт с C#, но дорога Зазеркалья привела к другому...
-<em>* Совершенствуюсь в Spring Framework и Spring Boot *</em>
+<br/>
+<em>Совершенствуюсь в Spring Framework и Spring Boot </em>
 
 <br/>
 
