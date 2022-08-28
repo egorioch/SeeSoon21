@@ -1,8 +1,7 @@
 ### <h1 align="center">Категорически приветствую!👋</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Готов+отдать+Java+свои+лучшие+годы)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Готов+отдать+Java+свои+лучшие+годы+...)](https://git.io/typing-svg)
 <h3>Егор, 20 лет. Учусь на программной инженерии. </h3><br/>
 <h3>Для связи(Telegram): <a href="https://t.me/see_soon21">see_soon21</a></h3>
 
