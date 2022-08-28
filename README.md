@@ -1,12 +1,20 @@
 ### <h1 align="center">Категорически приветствую!👋</h1>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Готов+отдать+Java+свои+лучшие+годы)](https://git.io/typing-svg)
 
+<h2>Егор, 20 лет. Учусь на программной инженерии.
+  Для связи(Telegram): <a href="https://t.me/see_soon21">see_soon21</a></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seesoon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > Был хороший опыт с C#, но дорога Зазеркалья привела к другому...
 
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesoon21)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **SeeSoon21/SeeSoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
