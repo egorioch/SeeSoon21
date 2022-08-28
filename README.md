@@ -8,10 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seesoon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > Был хороший опыт с C#, но дорога Зазеркалья привела к другому...
 <br/>
-<em>Совершенствуюсь в Spring Framework и Spring Boot.
-Английский на уровне Upper-Intermediate.</em>
+<em>Совершенствуюсь в Spring Framework и Spring Boot.<em/> <br/>
+<em>Английский на уровне Upper-Intermediate.</em>
 
-<br/>
+<br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seesoon21)](https://github.com/anuraghazra/github-readme-stats)
 
