@@ -15,6 +15,8 @@
 
 [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/SeeSoon21)
 
+  * Совершенствуюсь в Spring Framework и Spring Boot *
+
 
 
 <!--
