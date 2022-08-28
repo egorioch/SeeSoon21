@@ -7,7 +7,8 @@
 # Будто бы в детстве
 ## there together again
 
-**bold**
+> Снова мысли на весы
+> > На тебе две полосы
 <!--
 **SeeSoon21/SeeSoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
